@@ -1,3 +1,9 @@
-# Introduction to basic visualizations of multidimensional data sets
+# Introduction to basic visualizations of multidimensional data 
 
-[Jupyter Notebook](https://colab.research.google.com/github/niehues/pca_intro/blob/master/Introduction.ipynb)
+Topics
+* scatter plots
+* heatmaps
+* data normalization
+* PCA
+
+[Run Jupyter Notebook](https://github.com/cmbi/pca_intro/blob/master/Introduction.ipynb)
